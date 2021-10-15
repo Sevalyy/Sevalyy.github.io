@@ -80,7 +80,6 @@ ul.navbar-nav {
 
 #nav-list a {
     color: black;
-    text-align: center;
     border: 1px solid black;
 }
 
@@ -95,5 +94,9 @@ ul.navbar-nav {
 
 #main-content-header {
     text-shadow: 2px 2px #A4A4A4;
+
+}
+.navbar .navbar-collapse {
+    text-align: center;
 
 }
